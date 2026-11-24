@@ -1,0 +1,12 @@
+### Результат компіляції ###
+out/
+target/
+*.class
+
+### IntelliJ IDEA (особисті налаштування) ###
+.idea/
+*.iml
+
+### Інше ###
+.DS_Store
+Thumbs.db
